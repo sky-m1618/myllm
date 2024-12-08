@@ -1,0 +1,2 @@
+sec_key = "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"
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = sec_key
